@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<voice-interaction-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:sessionService="com.riya.assistant.RiyaSessionService"
+    android:recognitionService="com.riya.assistant.RiyaRecognitionService"
+    android:settingsActivity="com.riya.assistant.SettingsActivity"
+    android:supportsAssist="true" />
